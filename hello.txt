@@ -3,5 +3,8 @@ github: 우리가 git을 사용하는 장소
 github desktop: git을 컴퓨터 그래픽으로 표현함
 
 commit: git에 어떠한 변경이 있었는지 기록
-area => working directory: 현재 진행중인
-        staging directory: 
+area => working directory: 현재 작업중인 상태
+        staging area: 어떠한 파일들이 commit될 것인지 대기중인 상태
+        repository area: 파일이 commit되고 기록이 데이터로 남아있는 상태
+
+branch: 가지를 친다. branch를 만들어 다양한 상황을 만들 수 있다.
