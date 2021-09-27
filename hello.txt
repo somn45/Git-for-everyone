@@ -3,3 +3,5 @@ github: 우리가 git을 사용하는 장소
 github desktop: git을 컴퓨터 그래픽으로 표현함
 
 commit: git에 어떠한 변경이 있었는지 기록
+area => working directory: 현재 진행중인
+        staging directory: 
