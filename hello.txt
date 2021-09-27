@@ -13,3 +13,4 @@ branch: 가지를 친다. branch를 만들어 다양한 상황을 만들 수 있
 
 confilct: 다른 가지들에서 서로 다른 수정사항이 발생할 경우
   => vscode에서 충돌한 수정사항 둘 중 하나 혹은 두 변경사항 모두 선택할 수 있음
+Publish: github desktop의 파일을 github에 넘겨줌
