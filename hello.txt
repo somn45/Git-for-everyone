@@ -8,3 +8,8 @@ area => working directory: 현재 작업중인 상태
         repository area: 파일이 commit되고 기록이 데이터로 남아있는 상태
 
 branch: 가지를 친다. branch를 만들어 다양한 상황을 만들 수 있다.
+  => Update from default branch: 다른 가지에서 main(master) 가지의 변경내용을 가져올 수 있음
+  => Marge into current branch: main(master) 가지에서 다른 가지의 내용과 합치는 일을 함
+
+confilct: 다른 가지들에서 서로 다른 수정사항이 발생할 경우
+  => vscode에서 충돌한 수정사항 둘 중 하나 혹은 두 변경사항 모두 선택할 수 있음
